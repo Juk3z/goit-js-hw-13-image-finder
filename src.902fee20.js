@@ -15,4 +15,4 @@ var e,t=arguments[3];!function(t,r){"object"==typeof exports&&"object"==typeof m
 },{"./apiService":"WgT8","./htmlBuilder":"hDxO"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./pictureFinder");
 },{"./sass/main.scss":"clu1","./pictureFinder":"ub3J"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-13-image-finder/src.ae53b434.js.map
+//# sourceMappingURL=/goit-js-hw-13-image-finder/src.902fee20.js.map
